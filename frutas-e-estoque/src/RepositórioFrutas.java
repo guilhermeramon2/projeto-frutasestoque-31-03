@@ -8,10 +8,9 @@ class FrutaRepositorio implements Repositorio<Fruta> {
     public void adicionar(Fruta fruta) {
         frutas.add(fruta);
     }
-
     @Override
     public void remover(String nome) {
-        frutas.removeIf(fruta -> fruta.getNome().equalsIgnoreCase(nome));
+        frutas.removeIf(fruta -> fruta.getNome().equalsIgnoreCase(nome));    
     }
 
     @Override
