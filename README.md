@@ -1,5 +1,4 @@
 Nome do grupo: 
 Guilherme Ramon Guimarães Silva, Sóstenes André Soares Da Silva
 
-Projeto de vendas e estoque de frutas
-31/03/25
+PROJETO - VENDAS E ESTOQUES DE FRUTAS - 31/03/25
