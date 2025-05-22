@@ -31,6 +31,6 @@ class FrutaServicoImpl implements FrutaServico {
     @Override
     public void removerFruta(String nome) {
         repositorio.remover(nome);
-        System.out.println("Fruta " + nome + " removida.");
+        System.out.println("Fruta " + nome + " emovida.");
     }
 }
