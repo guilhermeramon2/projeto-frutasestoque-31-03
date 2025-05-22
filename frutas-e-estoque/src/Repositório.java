@@ -4,5 +4,5 @@ interface Repositorio<T> {
     void adicionar(T objeto);
     void remover(String nome);
     T buscar(String nome);
-    List<T> listar();
+    List<T> listar();.
 }
