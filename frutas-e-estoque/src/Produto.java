@@ -1,5 +1,5 @@
 abstract class Produto {
-    protected String nome;
+    protected String nome;.
     protected double preco;
     protected int estoque;
 
