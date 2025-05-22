@@ -17,7 +17,7 @@ class Fruta extends Produto {
             vendidos += quantidade;
             System.out.println(quantidade + " " + nome + "(s) vendidos com sucesso.");
         } else {
-            System.out.println("Estoque insuficiente de " + nome + ".");
+            System.out.println("Estoque insuficiente de: " + nome + ".");
         }
     }
 
